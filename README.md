@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Sobre mim</h1>
 
-<!--
-**matheusmacias/matheusmacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Acredito que a combinação de conhecimento técnico e criatividade é a chave para soluções inovadoras e impactantes. No momento, estou enfocando meus estudos em Typescript. No meu tempo livre, gosto de desenvolver projetos pessoais e explorar novas tecnologias, buscando sempre ampliar meus conhecimentos e habilidades como programador. Estou sempre em busca de oportunidades para aprender e crescer como profissional.
+</p>
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmacias&show_icons=true&theme=radical&count_private=true)
+<img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmacias&show_icons=true&include_all_commits=true&hide=javascript,css,scss,html&count_private=true&layout=compact&theme=tokyonight"
+    />
+    
+    
+<h2>Minhas Habilidades</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,java,arduino,cpp,postgres)](https://skillicons.dev)
