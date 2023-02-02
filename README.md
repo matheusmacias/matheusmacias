@@ -1,7 +1,7 @@
 <h1>Sobre mim</h1>
 
 <p>
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Acredito que a combinação de conhecimento técnico e criatividade é a chave para soluções inovadoras e impactantes. No momento, estou enfocando meus estudos em Typescript. No meu tempo livre, gosto de desenvolver projetos pessoais e explorar novas tecnologias, buscando sempre ampliar meus conhecimentos e habilidades como programador. Estou sempre em busca de oportunidades para aprender e crescer como profissional.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Acredito que a combinação de conhecimento técnico e criatividade é fundamental para soluções inovadoras e impactantes. Atualmente, estou me concentrando nos estudos de Typescript. Em meu tempo livre, desenvolvo projetos pessoais e exploro novas tecnologias, buscando sempre ampliar meus conhecimentos e habilidades como programador. Procuro oportunidades para aprender e crescer profissionalmente.
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmacias&show_icons=true&theme=radical&count_private=true)
@@ -11,7 +11,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
     
 <h2>Minhas Habilidades</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,java,arduino,cpp,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,typescript,java,arduino,cpp,postgres)](https://skillicons.dev)
 
 ##
 
